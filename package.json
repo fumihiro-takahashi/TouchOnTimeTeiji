@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "タッチオンタイムから残りの勤務時間を取得して残りの勤務日数で平均どれだけ働けばよいのかわかりますいえい",
   "scripts": {
+    "compile": "google-closure-compiler --js=ToTChecker.js --js_output_file=ToTChecker_Compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
