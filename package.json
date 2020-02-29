@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rererere0917/TouchOnTimeTeiji/issues"
   },
-  "homepage": "https://github.com/rererere0917/TouchOnTimeTeiji#readme"
+  "homepage": "https://github.com/rererere0917/TouchOnTimeTeiji#readme",
+  "devDependencies": {
+    "google-closure-compiler": "^20200224.0.0"
+  }
 }
