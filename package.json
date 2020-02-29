@@ -1,0 +1,19 @@
+{
+  "name": "TouchOnTimeTeiji",
+  "version": "1.0.0",
+  "description": "タッチオンタイムから残りの勤務時間を取得して残りの勤務日数で平均どれだけ働けばよいのかわかりますいえい",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rererere0917/TouchOnTimeTeiji.git"
+  },
+  "keywords": [],
+  "author": "rererere0917",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rererere0917/TouchOnTimeTeiji/issues"
+  },
+  "homepage": "https://github.com/rererere0917/TouchOnTimeTeiji#readme"
+}
